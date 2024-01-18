@@ -30,41 +30,45 @@
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
 * [License](#license)
 * [Authors](#authors)
-* [Acknowledgements](#acknowledgements)
-
 ## About The Project
 
 ![Screen Shot](https://github.com/vermaadigit/Discord_Clone/blob/main/Discord%20png.png)
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
+The Discord clone project is an ambitious endeavor aimed at replicating the core features and functionalities of the original Discord website using a stack of web technologies. The project leverages HTML, CSS, JavaScript, Tailwind CSS, Node.js, and various Node modules to create a comprehensive and fully functional clone of the popular communication platform, Discord.
 
-Here's why:
+Technologies Used:
 
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
+- HTML, CSS, JavaScript:
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
+- HTML (HyperText Markup Language): Used for structuring the content and layout of web pages.
+- CSS (Cascading Style Sheets): Responsible for styling and designing the user interface, ensuring an aesthetic and cohesive visual experience.
+- JavaScript: Adds dynamic behavior to the website, facilitating real-time interactions and enhancing user engagement.
+Tailwind CSS:
 
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+- Tailwind CSS: An innovative utility-first CSS framework that streamlines the styling process. It allows for the creation of a visually appealing and responsive design with the use of predefined utility classes.
+Node.js:
+
+- Node.js: The project utilizes Node.js as the server-side runtime environment. This enables the execution of JavaScript on the server, handling server-side logic and facilitating seamless communication between the client and the server.
+Node Modules:
+
+- Node Modules: Various Node.js packages and libraries are employed to enhance the project's functionality. These modules may include components for real-time communication, user authentication, database interaction, and more..
 
 ## Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Major frameworks for building this clone is Tailwind CSS
+
+* []()
 
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Setting up your project locally.
+To get a local copy up and running follow these simple  steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+This how to list things you need to use the software and how to install them.
 
 * npm
 
@@ -74,43 +78,33 @@ npm install npm@latest -g
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
 
-2. Clone the repo
+
+1. Clone the repo
 
 ```sh
-git clone https://github.com/your_username_/Project-Name.git
+git clone https://github.com/vermaadigit/Discord_Clone.git
 ```
 
-3. Install NPM packages
+2. Install NPM packages
 
 ```sh
 npm install
 ```
-
-4. Enter your API in `config.js`
-
-```JS
-const API_KEY = 'ENTER YOUR API';
+```sh
+npm i vite
 ```
+3. Start the Project
 
-## Usage
+```sh
+npm start
+```
+or
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+```sh
+npm run dev
+````
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-## Roadmap
-
-See the [open issues](https://github.com/vermaadigit/Discord_Clone/issues) for a list of proposed features (and known issues).
-
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/vermaadigit/Discord_Clone/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
-* Please make sure you check your spelling and grammar.
-* Create individual PR for each suggestion.
-* Please also read through the [Code Of Conduct](https://github.com/vermaadigit/Discord_Clone/blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
 
 ### Creating A Pull Request
 
@@ -126,10 +120,6 @@ Distributed under the MIT License. See [LICENSE](https://github.com/vermaadigit/
 
 ## Authors
 
-* **Shaan Khan** - *Comp Sci Student* - [Shaan Khan](https://github.com/ShaanCoding/) - *Built ReadME Template*
+* **Aditya Verma** - *Comp Sci Student* - [Aditya Verma](https://github.com/vermaadigit) - *Full Website Contribution*
 
-## Acknowledgements
 
-* [ShaanCoding](https://github.com/ShaanCoding/)
-* [Othneil Drew](https://github.com/othneildrew/Best-README-Template)
-* [ImgShields](https://shields.io/)
