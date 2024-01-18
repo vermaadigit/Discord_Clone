@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/vermaadigit/Discord_Clone">
-    <img src="[[images/logo.png](https://1000logos.net/wp-content/uploads/2021/06/Discord-logo.png)](https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b5061df29d55a92d945_full_logo_blurple_RGB.svg)" alt="Logo" width="80" height="80">
+    <img src="(https://1000logos.net/wp-content/uploads/2021/06/Discord-logo.png)](https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b5061df29d55a92d945_full_logo_blurple_RGB.svg)" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Discord Clone</h3>
