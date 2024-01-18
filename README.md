@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/vermaadigit/Discord_Clone">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="[images/logo.png](https://1000logos.net/wp-content/uploads/2021/06/Discord-logo.png)" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Discord Clone</h3>
