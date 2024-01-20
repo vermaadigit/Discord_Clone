@@ -59,7 +59,6 @@ Node Modules:
 
 Major frameworks for building this clone is Tailwind CSS
 
-* []()
 
 ## Getting Started
 
