@@ -32,6 +32,7 @@
   * [Installation](#installation)
 * [License](#license)
 * [Authors](#authors)
+  
 ## About The Project
 
 ![Screen Shot](https://github.com/vermaadigit/Discord_Clone/blob/main/Discord%20png.png)
