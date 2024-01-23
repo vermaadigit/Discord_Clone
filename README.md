@@ -4,7 +4,7 @@
     <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Discord Clone</h3>
+  <h3 align="center">Discord Clone Repo</h3>
 
   <p align="center">
     Discord is the easiest way to talk over voice, video, and text. Talk, chat, hang out, and stay close with your friends and communities.
