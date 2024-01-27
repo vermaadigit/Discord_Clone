@@ -41,7 +41,7 @@ The Discord clone project is an ambitious endeavor aimed at replicating the core
 
 Technologies Used:
 
-- HTML, CSS, JavaScript:
+- HTML, CSS, JavaScript.
 
 - HTML (HyperText Markup Language): Used for structuring the content and layout of web pages.
 - CSS (Cascading Style Sheets): Responsible for styling and designing the user interface, ensuring an aesthetic and cohesive visual experience.
